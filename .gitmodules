@@ -1,0 +1,9 @@
+[submodule "peterson-java"]
+	path = peterson-java
+	url = git@github.com:JooKS-me/peterson-java.git
+[submodule "thread-pool"]
+	path = thread-pool
+	url = git@github.com:JooKS-me/thread-pool.git
+[submodule "ja-chat"]
+	path = ja-chat
+	url = git@github.com:JooKS-me/ja-chat.git
